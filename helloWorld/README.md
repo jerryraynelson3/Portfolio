@@ -4,7 +4,7 @@
 
 {This is the classic Hello World program that is often the first program written by new learners. The goal is to have the phrase "Hello World!" be printed to the terminal.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9mEk1a0kgNc)
 
 # Development Environment
 
